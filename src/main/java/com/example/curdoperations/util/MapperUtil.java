@@ -11,7 +11,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 /**
- * Created by ARUN on 10/12/2017.
+ * Created by Akhil on 10/12/2017.
  */
 public class MapperUtil {
     public static Function<EProduct, Product> productMapper = eProduct -> {

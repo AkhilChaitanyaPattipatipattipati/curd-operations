@@ -14,7 +14,7 @@ import static com.example.curdoperations.util.MapperUtil.productMapper;
 
 
 /**
- * Created by ARUN on 10/12/2017.
+ * Created by Akhil on 10/12/2017.
  */
 @Service
 public class ProductService {
